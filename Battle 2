@@ -1,0 +1,40 @@
+#14 web maker logo
+}#s{position:absolute;top:5.3rem;left:5rem;border-width:7.9rem 4.55rem;border-style:
+solid;border-top-color:#FD4602;border-right-color:transparent;border-left-color:transparent;
+border-bottom-color:transparent}#uf{position:absolute;top:-2.69rem;right:5.45rem;border-width:7.9rem 4.55rem;border-style:
+solid;border-top-color:transparent;border-right-color:transparent;border-left-color:transparent;border-bottom-color:#FD4602;}
+#p{position:absolute;top:-2.69rem;right:4.3rem;border-width:7.9rem 4.55rem;
+border-style:solid;border-top-color:transparent;border-right-color:transparent;
+border-left-color:transparent;border-bottom-color:#FF6D00}</style>
+
+---------------------------------------------------------------------------------------
+#15 Overlap
+<p a></p><p b></p><p c></p>
+<style>body{background:#09042A;display:flex;justify-content:center;position:absolute;top:3.2rem;left:4.2rem;}p[a]{width:9.5rem;
+height:9.5rem;background:#E78481;border-radius:6rem;
+position:absolute;left:6.3rem;}p[b]{width:9.5rem;height:9.5rem;background:#7B3F61;border-radius:6rem;}p[c]{width:5.5rem;
+height:4.5rem;background:#09042A;border-radius:0rem 5rem 0rem 5rem;transform:rotate(51deg);
+position:absolute;left:5.1rem;top:2.5rem;z-index:10;}</style>
+
+-------------------------------------------------------------------------------------------
+#16 Eye od the tiger
+<p a></p><p b></p><p c></p><p d>
+</p><p e></p><p f></p>
+<style>body{background:#0B2429;display:flex;justify-content:center;align-items:center;}
+p[a]{width:12.6rem;height:12.6rem;background:#998235;border-radius:7rem;}p[b]{width:11.1rem;height:11.1rem;background:#0B2429;border-radius:6rem;
+position:absolute;}p[c]{width:8.7rem;height:8.7rem;background:#F3AC3C;border-radius:5rem;position:absolute;}
+p[d]{width:3rem;height:3rem;background:#0B2429;border-radius:3rem;position:absolute;}p[e]{border-width:3.1rem 
+3rem;border-style:solid;border-top-color:transparent;border-right-color:#998235;border-left-color:transparent;border-bottom-color:transparent;position:absolute
+;left:1.01rem;}p[f]{border-width:3.1rem 3rem;border-style:solid;
+border-top-color:transparent;border-right-color:transparent;border-left-color:#998235;border-bottom-color:transparent;position:absolute;right:01rem;}</style>
+
+------------------------------------------------------------------------------------------------------
+#17 Fidget spinner
+<p class="a"></p><p id="b"class="a"></p><p c></p><p class="d"><p class="d"id="e"></p>
+<style>body{background:#09042A;}.a{width: 60px;height: 60px;border-radius: 50%;border-style: 
+solid;border-width:10;border-color:#E78481;position:absolute;top:31%;left:55%;}#b{position:absolute;
+top:31%;left:25%;}p[c]{width:54;height:35;background:#E78481;position:absolute;top:39%;left:43%;}
+.d{width:58;height:58;border-radius:4rem;background:#F5BB9C;
+----------------------------------------------------------------------------------------------------------
+
+position:absolute;top:17%;left:43%;}#e{position:absolute;top:53%;background:#F5BB9C;}</style>
