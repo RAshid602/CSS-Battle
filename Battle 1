@@ -1,0 +1,49 @@
+--------------------#3 Push Buttons
+<a class="con"></a>
+ <a  b></a><a c></div><a  d></a>
+<style>.con{width:19rem;height:10rem;background:#243D83;position:Absolute;top:5rem;right:3rem;}a[b]{background:;width:15rem;height:15rem;border-radius:7.5rem;position:Absolute;
+top:2.9rem;left:5.05rem;}a[c]{background:#243D83;width:10.1rem;height:10.1rem;border-radius:7.5rem;position:Absolute;top:5rem;left:7.5rem;}a[d]{background:#EEB850;width:3rem;height:3rem;border-radius:3rem;
+position:Absolute;top:8.4rem;left:11rem;}*{background:#6592CF;margin:0;}
+</style>
+-----------------------------------------------------------------------------------------------------
+
+-------------------#5 Acid Rain
+<div id="first"></div><div  id="sec"></div><div  id="third"></div>
+<style>#first{width:7rem;height:7em;background:#F3AC3C;border-radius:85px 0px 80px 85px;
+position:Absolute;top:9rem;left:4.2rem;z-index:4;}#sec{background:#998235;
+width:7rem;height:7em;border-radius:60px 0px 67px 67px;position:Absolute;top:5.5rem;left:8.6rem;
+z-index:3;}#third{background:#F3AC3C;width: 7rem;height: 7em;border-radius:85px 86px 85px 0px;
+position:Absolute;top:2rem;right:5rem;}*{background:#0B2429;}</style>
+
+
+----------------------#8 Forking Crazy
+
+<div class="up" id="ufirst"></div>
+<div class="up" id="usec"></div>
+<div class="up" id="uthird"></div>
+<div class="up" id="uforth"></div>
+<div class="up" id="ufifth"></div>
+<div  id="base"></div>
+<div class="down" id="dfirst"></div>
+<div class="down" id="dsec"></div>
+<div class="down" id="dthird"></div><div  id="end"></div><style>.up{width: 1.2rem;height:7rem;background:#060F55;
+border-radius:20px  20px 0px 0px;position:Absolute;top:2.7rem;}#ufirst{left:6rem;}#usec{left:8.5rem 
+}#uthird{left:11rem;}#uforth{left:13.5rem;}#ufifth{top:12rem;left:9.7rem;}.down{background:;
+width:1.3rem;height:7rem;border-radius:0px 0px 20px 20px;position:Absolute;top:2.9rem;}#dfirst
+{left:7.2rem;}#dsec{left:9.7rem;}#dthird{left:12.2rem;}#base{background:#060F55;width:8.7rem;
+height:6rem;border-radius:0px 0px 70px 70px;position:Absolute;top:8.9rem;left:6rem;}*{background:#6592CF;}</style>
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------#9 Tesseract
+
+<div  id="circle"></div><style>#base{background:#4CAAB3;width:25rem;height:9.5rem
+;position:Absolute;top:4.7rem;}#rotate1{background:;width:14.5rem;height:14.5rem;position:
+Absolute;transform:rotate(45deg);top:2.5rem;left:5.5rem}#rotate2{background:#4CAAB3;width:9.5rem;
+height:9.5rem;position:Absolute;transform:rotate(45deg);top:4.5rem;left:7.7rem;}
+#circle{width:3rem;height:3rem;background:
+#393E46;border-radius:4rem;position:Absolute;
+top:8rem;left:10.7rem;}*{background:#222730;}</style>
+
+------------------------------------------------------------------------------------------------------------------------------------
